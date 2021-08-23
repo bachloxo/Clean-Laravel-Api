@@ -20,7 +20,7 @@
 ### Automatic Installation
 
 ```bash
-git clone https://github.com/gentritabazi01/Clean-Laravel-Api && cd Clean-Laravel-Api && sh ./scripts/install.sh
+git clone https://github.com/gentritabazi01/Clean-Laravel-Api && cd Clean-Laravel-Api && sh ./scripts/install-with-docker.sh
 ```
 
 This will:
